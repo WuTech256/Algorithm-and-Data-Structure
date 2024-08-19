@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     void bfs(vector<vector<int>> &grid, int x_i, int y_i, vector<vector<int>> &vis, int& res) {
@@ -46,3 +49,5 @@ public:
         return res;
     }
 };
+
+int main() {}
