@@ -4,6 +4,7 @@ Stack:
 
 Binary search:
 - 875 KoKo Eating Bananas
+- 1011 Capacity To Ship Packages Within D Days
 
 Backtracking:
 - 17 Letter Combinations of a Phone Number
