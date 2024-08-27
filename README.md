@@ -22,6 +22,7 @@ Graph:
 Bit Manipulation:
 - Counter Game (Hackerank)
 - The Great XOR (Hackerank)
+- 2151 Maximum Good People Based on Statements
 
 Greedy:
 - Candies (Hackerank)
