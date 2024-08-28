@@ -4,6 +4,9 @@ Stack:
 - 394 Decode String
 - 1673 Find the Most Competitive Subsequence
 
+Mono Stack:
+- 496 Next Greater Element I
+
 Queue and Deque:
 - 1823 Find the Winner of the Circular Game
 - 1834 Single-Threaded CPU
