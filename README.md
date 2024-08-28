@@ -6,6 +6,9 @@ Stack:
 
 Queue and Deque:
 - 1823 Find the Winner of the Circular Game
+
+Map:
+- 692 Top K Frequent Words
   
 Binary search:
 - 875 KoKo Eating Bananas
