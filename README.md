@@ -4,6 +4,9 @@ Stack:
 - 394 Decode String
 - 1673 Find the Most Competitive Subsequence
 
+Queue and Deque:
+- 1823 Find the Winner of the Circular Game
+  
 Binary search:
 - 875 KoKo Eating Bananas
 - 1011 Capacity To Ship Packages Within D Days
