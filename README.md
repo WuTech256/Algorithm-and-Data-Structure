@@ -34,6 +34,7 @@ Graph:
 - 417 Pacific Atlantic Water Flow
 - 1020 Number of Enclaves
 - 1905 Count Sub Islands
+- 752 Open the Lock
 
 Bit Manipulation:
 - Counter Game (Hackerank)
