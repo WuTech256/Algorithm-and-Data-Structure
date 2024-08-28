@@ -9,6 +9,7 @@ Queue and Deque:
 
 Map:
 - 692 Top K Frequent Words
+- 1386 Cinema Seat Allocation
   
 Binary search:
 - 875 KoKo Eating Bananas
