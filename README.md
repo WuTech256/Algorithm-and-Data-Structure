@@ -1,6 +1,8 @@
 Stack:
 - 1190 Reverse Substrings Between Each Pair of Parentheses
 - 1249 Minimum Remove to Make Valid Parentheses
+- 394 Decode String
+- 1673 Find the Most Competitive Subsequence
 
 Binary search:
 - 875 KoKo Eating Bananas
