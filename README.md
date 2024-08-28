@@ -7,6 +7,7 @@ Stack:
 
 Mono Stack:
 - 496 Next Greater Element I
+- 853 Car Fleet
 
 Queue and Deque:
 - 1823 Find the Winner of the Circular Game
