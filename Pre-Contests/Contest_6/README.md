@@ -1,0 +1,1 @@
+https://www.hackerrank.com/contests/swct-pretest-2/challenges
