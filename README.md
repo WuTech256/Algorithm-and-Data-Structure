@@ -16,6 +16,9 @@ Queue and Deque:
 Map:
 - 692 Top K Frequent Words
 - 1386 Cinema Seat Allocation
+
+Exhausive Search:
+- 1986 Minimum Number of Work Sessions to Finish the Tasks
   
 Binary search:
 - 875 KoKo Eating Bananas
