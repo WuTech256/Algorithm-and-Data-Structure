@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int n;
+int n; //Number of elements
 vector<int> nums;
 
 void input() {
