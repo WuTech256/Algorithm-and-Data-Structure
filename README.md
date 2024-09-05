@@ -39,6 +39,8 @@ Graph:
 - 1020 Number of Enclaves
 - 1905 Count Sub Islands
 - 752 Open the Lock
+- 1162 As Far from Land as Possible
+- 1926 Nearest Exit from Entrance in Maze
 
 Bit Manipulation:
 - Counter Game (Hackerank)
