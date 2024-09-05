@@ -41,6 +41,7 @@ Graph:
 - 752 Open the Lock
 - 1162 As Far from Land as Possible
 - 1926 Nearest Exit from Entrance in Maze
+- 1559 Detect Cycles in 2D Grid
 
 Bit Manipulation:
 - Counter Game (Hackerank)
