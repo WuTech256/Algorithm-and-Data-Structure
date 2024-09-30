@@ -12,6 +12,7 @@ Mono Stack:
 Queue and Deque:
 - 1823 Find the Winner of the Circular Game
 - 1834 Single-Threaded CPU
+- 778 Swim in Rising Water
 
 Map:
 - 692 Top K Frequent Words
