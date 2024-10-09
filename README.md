@@ -4,6 +4,7 @@ Stack:
 - 394 Decode String
 - 1673 Find the Most Competitive Subsequence
 - Balanced Brackets (Hackerank)
+- 921 Minimum Add to Make Parentheses Valid
 
 Mono Stack:
 - 496 Next Greater Element I
