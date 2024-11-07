@@ -50,6 +50,7 @@ Bit Manipulation:
 - Counter Game (Hackerank)
 - The Great XOR (Hackerank)
 - 2151 Maximum Good People Based on Statements
+- 2275 Largest Combination With Bitwise AND Greater Than Zero
 
 Greedy:
 - Candies (Hackerank)
