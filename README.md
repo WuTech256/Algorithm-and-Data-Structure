@@ -63,3 +63,6 @@ Greedy:
 
 Two Pointer:
 - 1813 Sentence Similarity III
+  
+Sliding Window:
+- 2516 Take K of Each Character From Left and Right
