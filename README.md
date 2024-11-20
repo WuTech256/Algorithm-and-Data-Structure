@@ -5,6 +5,7 @@ Stack:
 - 1673 Find the Most Competitive Subsequence
 - Balanced Brackets (Hackerank)
 - 921 Minimum Add to Make Parentheses Valid
+- 856 Score of Parentheses
 
 Mono Stack:
 - 84 Largest Rectangle in Histogram
