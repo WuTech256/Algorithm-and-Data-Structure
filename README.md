@@ -6,6 +6,7 @@ Stack:
 - Balanced Brackets (Hackerank)
 - 921 Minimum Add to Make Parentheses Valid
 - 856 Score of Parentheses
+- 946 Validate Stack Sequences
 
 Mono Stack:
 - 84 Largest Rectangle in Histogram
