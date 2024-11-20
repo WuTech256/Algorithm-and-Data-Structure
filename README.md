@@ -7,6 +7,7 @@ Stack:
 - 921 Minimum Add to Make Parentheses Valid
 
 Mono Stack:
+- 84 Largest Rectangle in Histogram
 - 496 Next Greater Element I
 - 503 Next Greater Element II
 - 739 Daily Temperatures
