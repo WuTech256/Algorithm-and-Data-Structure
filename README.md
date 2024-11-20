@@ -8,6 +8,7 @@ Stack:
 
 Mono Stack:
 - 496 Next Greater Element I
+- 503 Next Greater Element II
 - 853 Car Fleet
 - 962 Maximum Width Ramp
 Queue and Deque:
