@@ -16,6 +16,7 @@ Mono Stack:
 - 853 Car Fleet
 - 962 Maximum Width Ramp
 - 402 Remove K Digits
+- 1475 Final Prices With a Special Discount in a Shop
 
 Queue and Deque:
 - 1823 Find the Winner of the Circular Game
