@@ -16,6 +16,7 @@ Mono Stack:
 - 853 Car Fleet
 - 962 Maximum Width Ramp
 - 402 Remove K Digits
+
 Queue and Deque:
 - 1823 Find the Winner of the Circular Game
 - 1834 Single-Threaded CPU
