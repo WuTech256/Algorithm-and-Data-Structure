@@ -71,3 +71,7 @@ Two Pointer:
   
 Sliding Window:
 - 2516 Take K of Each Character From Left and Right
+
+
+Dynamic Programming:
+- 322 Coin Change
