@@ -75,3 +75,4 @@ Sliding Window:
 
 Dynamic Programming:
 - 322 Coin Change
+- 1547 Minimum Cost to Cut a Stick
