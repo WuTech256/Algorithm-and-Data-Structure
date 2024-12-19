@@ -28,6 +28,13 @@ D2:
         + Iterative (Bottom Up) -> Tiếp cận từ dưới lên
         + Recursion (Top-Down) -> Tiếp cận từ trên xuống
 
+#  Knapsack Problem (Rucksack)
+    - Bài toán balo là một bài toán tối ưu tổ hợp. Cho 1 tập hợp các item, mỗi item sẽ đi kèm trọng lượng và giá trị, hãy xác định số lượng item cần đưa vào balo sao cho cho tổng trọng lượng nhỏ hơn hoặc bằng một giới hạn nhất định và tổng quá trị càng lớn càng tốt.
+    - Vấn đề này thường nảy sinh trong việc phân bổ nguồn lực khi có những hạn chế về tài chính vaf được nghiên cứu trong các lĩnh vực như tổ hợp, khoa học máy tính, lý thuyết phức tạp, mật mã, toán học ứng dụng và các môm thể thao tưởng tượng hàng ngày.
+    - Bài toán này đã được nghiên cứu trong 1 thế kỷ, với những công trình đầu tiên từ năm 1897, cái tên "bài toán balo" được bắt nguồn từ những tác phẩm đầu tiên của nhà toán học Tobias Dantzig (1884-1956)
+    
+
+
 
 
     
