@@ -77,3 +77,4 @@ Dynamic Programming:
 - 322 Coin Change
 - 1547 Minimum Cost to Cut a Stick
 - 300 Longest Increasing Subsequence
+- 62 Unique Paths (Paths in a Grid)
