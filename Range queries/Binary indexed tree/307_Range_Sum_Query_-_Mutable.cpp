@@ -4,10 +4,12 @@ private:
     vector<int> nums;
     int n;
 public:
+
     NumArray(vector<int>& nums) {
-        this->n = n;
-        this->nums = nums;
-        BIT.resize(n+1, 0);
+        this->nums=nums;
+        this->n=nums.size();
+        BIT.resize(n + 1, 0);
+
 
         for(int i = 0; i < n; ++i) {
             add(i+1, nums[i]);
@@ -27,15 +29,17 @@ public:
             s += BIT[k];
             k -= k & -k;
         }
+        return s;
     }
+
     void update(int index, int val) {
         int diff = val - nums[index];
         nums[index] = val;
-        add(index + 1, diff);
+        add(index +1, diff);
     }
     
     int sumRange(int left, int right) {
-        return sum(right+1) - sum(left);
+        return sum(right + 1) - sum(left);
     }
 };
 
