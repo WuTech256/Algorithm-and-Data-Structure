@@ -7,6 +7,7 @@
 - 921 Minimum Add to Make Parentheses Valid
 - 856 Score of Parentheses
 - 946 Validate Stack Sequences
+- 2375 Construct Smallest Number From DI String
 
 # Mono Stack:
 - 84 Largest Rectangle in Histogram
