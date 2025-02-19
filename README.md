@@ -82,3 +82,5 @@
 - 300 Longest Increasing Subsequence
 - 62 Unique Paths (Paths in a Grid)
 - 64 Minimum Path Sum (Paths in a Grid)
+- 2547 Minimum Cost to Split an Array (Coin)
+
