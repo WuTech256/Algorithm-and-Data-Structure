@@ -43,6 +43,7 @@
 - 40 Combination Sum II
 - 46 Permutations
 - 1079 Letter Tile Possibilities
+- 1415 The k-th Lexicographical String of All Happy Strings of Length n
 
 # Graph:
 - 463 LeetCode
