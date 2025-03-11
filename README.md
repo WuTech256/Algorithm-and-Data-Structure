@@ -74,6 +74,7 @@
   
 # Sliding Window:
 - 2516 Take K of Each Character From Left and Right
+- 1358 Number of Substrings Containing All Three Characters
 
 
 # Dynamic Programming:
