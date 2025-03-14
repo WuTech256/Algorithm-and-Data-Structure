@@ -36,6 +36,7 @@
 - 875 KoKo Eating Bananas
 - 1011 Capacity To Ship Packages Within D Days
 - 1760 Minimum Limit of Balls in a Bag
+- 2226 Maximum Candies Allocated to K Children
 
 # Backtracking:
 - 17 Letter Combinations of a Phone Number
