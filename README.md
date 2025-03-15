@@ -37,6 +37,7 @@
 - 1011 Capacity To Ship Packages Within D Days
 - 1760 Minimum Limit of Balls in a Bag
 - 2226 Maximum Candies Allocated to K Children
+- 2560 House Robber IV
 
 # Backtracking:
 - 17 Letter Combinations of a Phone Number
