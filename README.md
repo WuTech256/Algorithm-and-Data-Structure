@@ -58,6 +58,9 @@
 - 1162 As Far from Land as Possible
 - 1926 Nearest Exit from Entrance in Maze
 - 1559 Detect Cycles in 2D Grid
+  
+# Graph/Spanning Tree/Union-find Structure
+- 2658 Maximum Number of Fish in a Grid
 
 # Bit Manipulation:
 - Counter Game (Hackerank)
