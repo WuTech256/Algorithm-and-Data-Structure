@@ -9,8 +9,8 @@ Các tập hợp là rời rạc, do đó không có phần tử nào thuộc v�
 # Cấu trúc:
 	- Trong một cấu trúc union-find, mỗi tập hợp có một phần tử đại diện. Tất cả các phần tử khác trong tập hợp được liên kết trực tiếp hoặc gián tiếp đến phần tử đại diện thông qua một chuỗi liên kết.
 	- Khi thực hiện thao tác unite, hai tập hợp được nối bằng cách kết nối đại diện của một tập hợp với đại diện của tập hợp kia.
-  - Hiệu quả của cấu trúc union-find phụ thuộc vào cách các tập hợp được nối với nhau.
-    Một chiến lược tối ưu là luôn kết nối đại diện của tập hợp nhỏ hơn với đại diện của tập hợp lớn hơn.
+  	- Hiệu quả của cấu trúc union-find phụ thuộc vào cách các tập hợp được nối với nhau.
+   	  Một chiến lược tối ưu là luôn kết nối đại diện của tập hợp nhỏ hơn với đại diện của tập hợp lớn hơn.
 		Sử dụng chiến lược này sẽ đảm bảo rằng độ dài của bất kỳ chuỗi liên kết nào là 
 		O(logn), cho phép tìm phần tử đại diện một cách hiệu quả.
 		
