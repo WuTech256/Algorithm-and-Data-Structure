@@ -58,7 +58,10 @@
 - 1162 As Far from Land as Possible
 - 1926 Nearest Exit from Entrance in Maze
 - 1559 Detect Cycles in 2D Grid
-  
+- 
+# Graph/Shortest paths
+1976 Number of Ways to Arrive at Destination
+
 # Graph/Spanning Tree/Union-find Structure
 - 2658 Maximum Number of Fish in a Grid
 - 3108 Minimum Cost Walk in Weighted Graph
