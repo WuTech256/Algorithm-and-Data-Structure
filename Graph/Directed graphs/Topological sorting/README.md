@@ -15,6 +15,6 @@
 		-> state 1: các nút đang được xử lý
 		-> state 3: các nút dã được xử lý
 	
-	Ban đầu, trạng thái của mỗi nút là 0. Khi một tìm kiếm đến moojtnust lần đầu tiên, trạng thái của nó trở thành 1. Cuối cùng, sau khi tất cả những nút kế thừa của nút đã được xử lý, trạng
+	Ban đầu, trạng thái của mỗi nút là 0. Khi một tìm kiếm đến mỗi nút lần đầu tiên, trạng thái của nó trở thành 1. Cuối cùng, sau khi tất cả những nút kế thừa của nút đã được xử lý, trạng
 	thái của nó sẽ chuyển thành 2.
 
