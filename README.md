@@ -58,7 +58,7 @@
 - 1162 As Far from Land as Possible
 - 1926 Nearest Exit from Entrance in Maze
 - 1559 Detect Cycles in 2D Grid
-- 
+
   ## Shortest paths
     ### Dijkstra’s algorithm
     - 1976 Number of Ways to Arrive at Destination
