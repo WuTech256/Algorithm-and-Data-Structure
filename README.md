@@ -75,6 +75,7 @@
     - 207 Course Schedule
     - 310 Minimum Height Trees
     - 2115 Find All Possible Recipes from Given Supplies
+    - 329 Longest Increasing Path in a Matrix
   
 # Bit Manipulation:
 - Counter Game (Hackerank)
