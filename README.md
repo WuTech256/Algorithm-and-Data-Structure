@@ -62,7 +62,7 @@
   ## Shortest paths
     ### Dijkstra’s algorithm
     - 1976 Number of Ways to Arrive at Destination
-
+    - 2503 Maximum Number of Points From Grid Queries
   ## Spanning Tree
     ### Union-find Structure
     - 2658 Maximum Number of Fish in a Grid
