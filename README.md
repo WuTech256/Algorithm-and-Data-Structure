@@ -18,7 +18,8 @@
 - 962 Maximum Width Ramp
 - 402 Remove K Digits
 - 1475 Final Prices With a Special Discount in a Shop
-
+- 2818 Apply Operations to Maximize Score
+  
 # Queue and Deque:
 - 1823 Find the Winner of the Circular Game
 - 1834 Single-Threaded CPU
