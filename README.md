@@ -1,3 +1,6 @@
+# Hash Table
+- 763 Partition Labels
+  
 # Stack:
 - 1190 Reverse Substrings Between Each Pair of Parentheses
 - 1249 Minimum Remove to Make Valid Parentheses
