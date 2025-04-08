@@ -108,4 +108,5 @@
 - 62 Unique Paths (Paths in a Grid)
 - 64 Minimum Path Sum (Paths in a Grid)
 - 2547 Minimum Cost to Split an Array (Coin)
+- 416 Partition Equal Subset Sum
 
