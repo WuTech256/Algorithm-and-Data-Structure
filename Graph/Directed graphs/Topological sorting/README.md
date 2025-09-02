@@ -1,20 +1,43 @@
-# Topological Sorting:
-	
+# Topological Sort
 
-	- Topological Sort là kiểu sắp xếp thứ tự các nút của biểu đồ có hướng sao cho nếu có đường dẫn từ nút A đến nút B, thì nút A xuất hiện trước nút B
-	theo thứ tự. 
+## 1. Khái niệm
+- **Topological Sort** là cách sắp xếp thứ tự các đỉnh trong **đồ thị có hướng, không chu trình (DAG)** sao cho:
+  - Nếu có cạnh từ `A → B`, thì `A` phải xuất hiện **trước** `B` trong kết quả sắp xếp.
 
-	- Một đồ thị Acyclic (ko có chu trình) luôn luôn tồn tại Topological sort. Tuy nhiên nếu đồ thị tồn tại chu kì, không thể tồn tại Topological Sort,
-	bởi vì không có nút nào của chu kì có thể xuất hiện trước các nút còn lại của chu kỳ đó theo thứ tự. 
-	Nó chỉ ra rằng DFS có thể được sử dụng để check xem đồ thị có hướng có tồn tại chu kì hay không, và nếu không có chu kì thì hoàn toàn có thể thực hiện Topological Sort.
+- Nếu đồ thị có **chu trình**, thì **không thể** thực hiện Topological Sort, bởi vì trong chu trình không có đỉnh nào có thể đứng trước các đỉnh còn lại.
 
-# Algorithm
-	Ý tưởng là đi qua tất cả các nút của đồ thị và luôn luôn bắt đầu với nút hiện tại với DFS nếu nó chưa từng được xử lý. 
-	Trong suốt quá trình tìm kiếm, các nút tồn tại ở 3 trạng thái.
-		-> state 0: các nút chưa được xử lý
-		-> state 1: các nút đang được xử lý
-		-> state 3: các nút dã được xử lý
-	
-	Ban đầu, trạng thái của mỗi nút là 0. Khi một tìm kiếm đến mỗi nút lần đầu tiên, trạng thái của nó trở thành 1. Cuối cùng, sau khi tất cả những nút kế thừa của nút đã được xử lý, trạng
-	thái của nó sẽ chuyển thành 2.
+---
+
+## 2. Ứng dụng
+- Lập lịch học phần (môn nào học trước, môn nào học sau).
+- Quản lý thứ tự build file khi compile code.
+- Xác định thứ tự thực hiện các công việc có phụ thuộc.
+
+---
+
+## 3. Ý tưởng với DFS
+Thuật toán DFS được dùng để vừa **phát hiện chu trình**, vừa **tạo thứ tự topo**.
+
+Mỗi đỉnh trong đồ thị có 3 trạng thái:
+
+- **State = 0**: Đỉnh **chưa được xử lý** (chưa thăm).
+- **State = 1**: Đỉnh **đang được xử lý** (đang trong ngăn xếp DFS).
+- **State = 2**: Đỉnh **đã xử lý xong** (tất cả đỉnh kề đã được duyệt).
+
+### Quy trình:
+1. Khởi tạo tất cả các đỉnh với `state = 0`.
+2. Với mỗi đỉnh chưa xử lý:
+   - Gọi `DFS(u)`.
+   - Trong DFS:
+     - Đặt `state[u] = 1`.
+     - Với mỗi cạnh `u → v`:
+       - Nếu `state[v] = 0` → tiếp tục DFS(v).
+       - Nếu `state[v] = 1` → phát hiện **chu trình** → **không thể topo**.
+     - Sau khi duyệt xong tất cả đỉnh kề, đặt `state[u] = 2` và đưa `u` vào kết quả.
+3. Đảo ngược kết quả → thu được thứ tự topo.
+
+---
+
+## 4. Ví dụ
+Đồ thị:
 
